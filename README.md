@@ -22,7 +22,8 @@ a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 b=np.linalg.inv(a)
 print(b)
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/vigneshvickyu/INVERSE-OF-A-MATRIX/assets/151948835/f0a88f39-aeb4-4186-a9f1-7cd438e311ff)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
